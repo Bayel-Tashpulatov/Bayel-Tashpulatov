@@ -1,9 +1,15 @@
-### Hi there 👋, I'm Bayel!
+# Hi, I'm Bayel 👋
 
+Software developer building practical apps and learning to think like a founder.
 
-- 🔭 I’m working on a Flashcard app with Flutter
-- 🌱 I’m currently learning German and advanced Dart
-- 🎯 Goals: Build 3 complete apps in 2025
+I focus on:
+- Designing clean and minimal products  
+- Improving architecture and code quality  
+- Building small projects end-to-end  
+- Developing long-term skills in software and product thinking  
+
+> Working on becoming consistent, disciplined, and capable of creating real products.
+
 
 
 ### ⚙️ Tech Stack

@@ -1,24 +1,63 @@
+<div align="center">
+
 # Bayel
 
-Software developer building practical apps.
+### Software Developer · Product Builder
 
-I focus on:
-- Designing clean and minimal products  
-- Improving architecture and code quality  
-- Building small projects end-to-end  
-- Developing long-term skills in software and product thinking  
+Building practical apps, systems, and digital products.
 
+<br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Products;Learning+by+Building;Design+%C3%97+Engineering;From+Kyrgyzstan+to+the+World" />
 
+<br/>
 
-### ⚙️ Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,go,python,firebase,mysql,git,vscode,figma" />
+</p>
 
+</div>
+
+<br/>
+
+## About
+
+I build mobile apps and digital products end-to-end — from UX and architecture to launch.
+
+Focused on:
+- scalable Flutter systems
+- minimal product design
+- practical real-world products
+- fast iteration and long-term growth
+
+<br/>
+
+## Current Focus
+
+```txt
+Flutter Architecture
+Backend Systems
+Product Strategy
+UX Systems
+English
+```
+GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayeltashpulatov1&show_icons=true&hide_border=true&theme=transparent" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayeltashpulatov1&layout=compact&hide_border=true&theme=transparent" /> </div> <br/>
+Contribution Flow
+<div align="center"> <img src="https://raw.githubusercontent.com/bayeltashpulatov1/bayeltashpulatov1/output/github-contribution-grid-snake-dark.svg" /> </div> <br/>
+Featured Projects
+📱 Ropemate
+
+Social accountability and consistency app.
+
+🇩🇪 Germany Guide
+
+Practical survival guide for migrants in Germany.
+
+🧠 Germane
+
+German learning platform focused on real conversations and listening.
+
+<br/> <div align="center">
+Building quietly. Improving daily.
+</div>
